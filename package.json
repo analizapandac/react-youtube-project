@@ -1,9 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "react-youtube-project",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "A simple youtube-like app built with React",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "repository": "git@github.com:camperliz/react-youtube-project.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
