@@ -1,23 +1,8 @@
-# ReduxSimpleStarter
+# React Youtube Search
 
-###Getting Started###
+This application allows user to search for Youtube videos, displays a list of videos based on the search results and play the video when the user clicked on any one of them.
 
-There are two methods for getting started with this repo.
+###Credits###
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
+I had a lot of fun doing this project and this was made possible with the help of Stephen Grider who is such an amazing teacher.
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
